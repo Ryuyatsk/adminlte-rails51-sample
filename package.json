@@ -1,0 +1,7 @@
+{
+  "name": "adminlte-rails51-sample",
+  "private": true,
+  "dependencies": {
+    "admin-lte": "^2.3.11"
+  }
+}
